@@ -1,6 +1,11 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: black;
+    background-color: #4f4df5;
     color: white;
     padding: 128px 16px;
+  border: 3px solid black;
+  text-align: center;
+}
+.section{
+  font-family: "Lucida Console", "Courier New", monospace;
 }
