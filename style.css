@@ -1,9 +1,9 @@
 /* The code below makes the background of the header black and the font color of the title white. Change this to match what you want for your website. */
 header {
-    background-color: #000000;
+    background-color: #17b5b5;
     color: white;
-    padding: 148px 10px;
-  border: 3px solid black;
+    padding:158px 4px;
+  border: 0px solid black;
   text-align: center;
 background-image: url("https://th.bing.com/th/id/R.6f843759e18d2929ee79acb33f5e20c8?rik=WamuH5txt0yQkw&riu=http%3a%2f%2fwww.quitmanschools.org%2fwordpress%2fwp-content%2fuploads%2f2018%2f04%2fsbsign.jpg&ehk=MyBKge60yqeQa935JHOoQp1e9g%2fMtrE4VZhaqkWdQ9w%3d&risl=&pid=ImgRaw&r=0");
   background-size: 490px;
@@ -16,4 +16,12 @@ background-position: center;
 
 .section-2{
   font-family: "sans-serif", "Helvetica", Arial, sans-serif;
+}
+
+.section-3{
+   font-family:Arial, sans-serif;
+}
+
+body{
+  background-color: #17b5b5;
 }
