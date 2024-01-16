@@ -9,6 +9,7 @@ background-image: url("https://th.bing.com/th/id/R.6f843759e18d2929ee79acb33f5e2
   background-size: 490px;
 background-position: center;
   background-repeat: no-repeat;
+  
 }
 .section-1{
   font-family: "serif", "Times New Roman", Times, serif;"
@@ -24,4 +25,9 @@ background-position: center;
 
 body{
   background-color: #17b5b5;
+}
+
+.container{
+  display: flex;
+  justify-content: space-around;
 }
